@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development,Graphic Design, Mobile application development and Sytsem design.
 - 🌱 I’m currently learning Java, Javascript and C++
 - 💞️ I’m looking to collaborate on projects that would enhance my knowledge and experience in the field.
-- 📫 How to reach me @dbk6067@outlook.com
+- 📫 Reach me @dbk6067@outlook.com
 
 <!---
 sirbor/sirbor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
