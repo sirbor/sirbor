@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Dominic Bor 
 - 👨‍💻 MERN Stack Developer- Mongo DB, Expressjs , ReactJs, Nodejs
 - 👀 I’m interested in Software development,Web & Graphic Design, Mobile Application Development and System design.
-- 🌱 I’m currently learning Java, Javascript and C++.
+- 🌱 I’m currently learning Java, Javascript and Python.
 - 💞️ I’m looking to collaborate on projects that would enhance my knowledge and experience in the field.
 - 📫 Reach me @dominicbor19@students.uonbi.ac.ke
 
