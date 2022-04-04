@@ -1,7 +1,7 @@
 <h2> Hi there I'm Dominic Bor! </h2>
 
-[![Mail](https://img.shields.io/badge/Mail-umavictor11@gmail.com-red)](mailto:dbk6067@outlook.com)
-[![Twitter](https://img.shields.io/badge/Twitter-uma_victor-blue)](https://twitter.com/sirbor_)
+[![Mail](https://img.shields.io/badge/Mail-dbk6067@outook.com.com-red)](mailto:dbk6067@outlook.com)
+[![Twitter](https://img.shields.io/badge/Twitter-sirbor_-blue)](https://twitter.com/sirbor_)
 
 
 
