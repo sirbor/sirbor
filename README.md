@@ -14,17 +14,33 @@ const dominicBor = {
     'Android Development',
 
   ],
-  technologies: [
-      'HTML'
-      'CSS - Tailwind & Bootstrap',
+  languages: [
+      'HTML',
+      'CSS - Bootstrap & Tailwind',
       'Javascript',
       'React',
-      'Node Js',
-      'MongoDB',
       'Express Js',
-      'Vue Js',
-      'Python',
+      'Node Js',
       'Java',
+      'Python',
+  ],
+  database: [
+    'Mongo DB',
+    'My SQL',
+    'SQL',
+    'GraphQL',
+    'Postgres',
+    'Firebase',
+  ],
+  tools: [
+    'AWS',
+    'Heroku',
+    'Netlify',
+    'Vercel',
+    'Jenkins',
+    'Circle CI',
+    'Git & Github',
+    'Docker',
   ],
 }
 ```
