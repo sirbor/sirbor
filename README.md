@@ -45,6 +45,12 @@ const dominicBor = {
     'Firebase',
     'Vercel',
   ],
+  CMS: [
+    'Wordpress',
+    'Drupal',
+    'Joomla'
+    'Shopify',
+  ],
 }
 ```
 
