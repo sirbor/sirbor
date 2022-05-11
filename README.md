@@ -28,19 +28,23 @@ const dominicBor = {
     'Mongo DB',
     'My SQL',
     'SQL',
-    'GraphQL',
     'Postgres',
     'Firebase',
   ],
   tools: [
-    'AWS',
-    'Heroku',
-    'Netlify',
-    'Vercel',
     'Jenkins',
     'Circle CI',
     'Git & Github',
     'Docker',
+    'Kubernetes',
+  ],
+  deploy: [
+    'AWS',
+    'Azure'
+    'Heroku',
+    'Netlify',
+    'Firebase',
+    'Vercel',
   ],
 }
 ```
