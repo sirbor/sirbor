@@ -12,17 +12,16 @@ const dominicBor = {
   interests: [
     'Web Development',
     'Android Development',
+    'Software Development',
 
   ],
   languages: [
       'HTML',
       'CSS - Bootstrap & Tailwind',
-      'Javascript',
-      'React',
-      'Express Js',
-      'Node Js',
-      'Java',
-      'Python',
+      'Javascript - React, Vanilla, Vue, Node Js, Express Js',
+      'Java - Spring & MVC',
+      'Python - Django & Flask',
+      'Ruby on Rails',
   ],
   database: [
     'Mongo DB',
