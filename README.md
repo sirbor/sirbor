@@ -24,11 +24,11 @@ const dominicBor = {
       'Ruby on Rails',
   ],
   database: [
-    'Mongo DB',
-    'My SQL',
     'SQL',
-    'Postgres',
-    'Firebase',
+    'Mongo DB',
+    'MySQL',
+    'Postgresql',
+    'Casandra'
   ],
   tools: [
     'Jenkins',
